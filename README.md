@@ -2,7 +2,7 @@
 
 ### 🛠 Tech Stack 🛠
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=FFFFFF)]()
-[![Python](https://img.shields.io/badge/Python-FADE27?style=flat-square&logo=Python&logoColor=FFFFFF)]()
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>
 </div>
